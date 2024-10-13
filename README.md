@@ -1,16 +1,11 @@
-## Hi there 👋
+## Welcome to my GitHub 👋🌟
 
-<!--
-**teressacodes/teressacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on class projects at Spokane Community College - Software Development
+- 🌱 I’m currently learning Node.js, Kotlin, PHP, Python
+- 👯 I’m looking to collaborate on open source, aerospace, tech for good
+- 💬 Ask me about being a non-traditional student, making a career change, being resilient and determined in my goals! 
+- 📫 How to reach me: Let's chat and connect on [LinkedIn](https://www.linkedin.com/in/tessellison/)
+- ⚡ Fun facts:
+  * I've been a pet sitter for three years
+  * I have a 503 days streak learning Italian on Duolingo
+  * I'm a proud member of ReWriting the Code (RTC)
