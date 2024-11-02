@@ -7,5 +7,5 @@
 - 📫 How to reach me: Let's chat and connect on [LinkedIn](https://www.linkedin.com/in/tessellison/)
 - ⚡ Fun facts:
   * I've been a pet sitter for three years
-  * I have a 503 days streak learning Italian on Duolingo
+  * I have a 525 days streak learning Italian on Duolingo
   * I'm a proud member of ReWriting the Code (RTC)
